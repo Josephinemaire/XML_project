@@ -9,3 +9,4 @@ As for me, since I love poetry, I chose to work on three French poems from the 1
 The use of XML as a markup format focused primarily on the meaning of the text rather than its layout is very interesting, especially in poetry. That is why I chose poetry because the objective of the exercise will be to edit the text using XML. This allows the literary work to be structured semantically. 
 I did not use AI except for translation tools in order to write in more fluent English.
 
+
