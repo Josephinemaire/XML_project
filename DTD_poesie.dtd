@@ -12,6 +12,8 @@
 <!ELEMENT lg (l+)>
 <!ATTLIST lg type CDATA #REQUIRED >
 <!ELEMENT l (#PCDATA) >
+<!ATTLIST l rhyme CDATA #REQUIRED >
+
 
 
 
