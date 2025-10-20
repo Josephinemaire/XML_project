@@ -1,15 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE XML SYSTEM "DTD_poesie.dtd">
-<XML>
-<fileDesc>
-    <titleStmt>
-        <title>poesie</title>
-        <author>Joséphine Maire</author>
-    </titleStmt>
-    <publicationStmt>
-        <p></p>
-    </publicationStmt>
-    <sourceDesc></sourceDesc>
-</fileDesc>   
-</XML>
+<!DOCTYPE Poesie SYSTEM "DTD_poesie.dtd">
+<Poesie>
+    <Header>
+        <titleStmt>
+            <title>*Le Lac*</title>
+            <author>Alphonse de Lamartine</author>
+        </titleStmt>
+        <publicationStmt>
+            <p> <!--précision sur la publication de l'oeuvre --></p> 
+        </publicationStmt>
+        <sourceDesc></sourceDesc>
+    </Header>
+    <text>
+        <body>
+                <lg type="quatrain">
+                    <l>Ainsi, toujours poussés vers de nouveaux rivages, </l>
+                    <l>Dans la nuit éternelle emportés sans retour, </l>
+                    <l>Ne pourrons-nous jamais sur l'océan des âges </l>
+                    <l>Jeter l'ancre un seul jour ? </l>
+                </lg>
+                <lg type="quatrain">
+                    <l>Ô lac ! l'année à peine a fini sa carrière, </l>
+                    <l>Et près des flots chéris qu'elle devait revoir, </l>
+                    <l>Regarde ! je viens seul m'asseoir sur cette pierre </l>
+                    <l>Où tu la vis s'asseoir ! </l>
+                </lg>
+                <lg type="quatrain">
+                    <l>Tu mugissais ainsi sous ces roches profondes,</l>
+                    <l>Ainsi tu te brisais sur leurs flancs déchirés,</l>
+                    <l>Ainsi le vent jetait l'écume de tes ondes </l>
+                    <l>Sur ses pieds adorés. </l>   
+                </lg>
+                <lg type="quatrain">
+                    <l>Un soir, t'en souvient-il ? nous voguions en silence ;</l>
+                    <l>On n'entendait au loin, sur l'onde et sous les cieux,</l>
+                    <l>Que le bruit des rameurs qui frappaient en cadence </l>
+                    <l>Tes flots harmonieux. </l>
+                </lg>
+                <lg type="quatrain">
+                    <l>Tout à coup des accents inconnus à la terre</l>
+                    <l>Du rivage charmé frappèrent les échos ;</l>    
+                    <l>Le flot fut attentif, et la voix qui m'est chère</l>   
+                    <l>Laissa tomber ces mots :</l> 
+                </lg>
+                <lg type="quatrain">
+                    <l>"Ô temps ! suspends ton vol, et vous, heures propices !</l> 
+                     <l>Suspendez votre cours :</l>  
+                     <l>Laissez-nous savourer les rapides délices</l>  
+                     <l>Des plus beaux de nos jours !</l>  
+                </lg>
+                <lg type="quatrain">
+                    <l>"Assez de malheureux ici-bas vous implorent,</l> 
+                    <l>Coulez, coulez pour eux ;</l>
+                    <l>Prenez avec leurs jours les soins qui les dévorent ;</l> 
+                    <l>  Oubliez les heureux. </l>  
+                </lg>
+                <lg type="quatrain">
+                    <l>" Mais je demande en vain quelques moments encore,</l> 
+                    <l>Le temps m'échappe et fuit ;</l>
+                    <l>Je dis à cette nuit : Sois plus lente ; et l'aurore</l>
+                    <l> Va dissiper la nuit.</l>
+                </lg>
+                <lg type="quatrain">
+                    <l>" Aimons donc, aimons donc ! de l'heure fugitive,</l> 
+                    <l>Hâtons-nous, jouissons !</l>  
+                    <l>L'homme n'a point de port, le temps n'a point de rive ;</l>  
+                    <l>Il coule, et nous passons ! "</l>  
+                </lg>
+                <lg type="quatrain">
+                    <l>Temps jaloux, se peut-il que ces moments d'ivresse,</l> 
+                    <l>Où l'amour à longs flots nous verse le bonheur,</l> 
+                    <l>S'envolent loin de nous de la même vitesse</l>
+                    <l>Que les jours de malheur ? </l>  
+                </lg>
+                <lg type="quatrain">
+                    <l> Eh quoi ! n'en pourrons-nous fixer au moins la trace ?</l>
+                    <l>Quoi ! passés pour jamais ! quoi ! tout entiers perdus !</l> 
+                    <l>Ce temps qui les donna, ce temps qui les efface,</l> 
+                    <l>Ne nous les rendra plus !</l>  
+                </lg>
+                <lg type="quatrain">
+                    <l>Éternité, néant, passé, sombres abîmes,</l>
+                    <l>Que faites-vous des jours que vous engloutissez ?</l> 
+                    <l>Parlez : nous rendrez-vous ces extases sublimes </l> 
+                    <l>Que vous nous ravissez ? </l>  
+                </lg>
+                <lg type="quatrain">
+                    <l>Ô lac ! rochers muets ! grottes ! forêt obscure !</l> 
+                    <l>Vous, que le temps épargne ou qu'il peut rajeunir,</l> 
+                    <l>Gardez de cette nuit, gardez, belle nature,</l> 
+                    <l>Au moins le souvenir !</l>
+                </lg>
+                <lg type="quatrain">
+                    <l>Qu'il soit dans ton repos, qu'il soit dans tes orages,</l> 
+                    <l>Beau lac, et dans l'aspect de tes riants coteaux,</l>  
+                    <l>Et dans ces noirs sapins, et dans ces rocs sauvages</l>  
+                    <l>Qui pendent sur tes eaux.</l> 
+                </lg> 
+                <lg type="quatrain">
+                    <l>Qu'il soit dans le zéphyr qui frémit et qui passe,</l>
+                    <l> Dans les bruits de tes bords par tes bords répétés,</l> 
+                    <l> Dans l'astre au front d'argent qui blanchit ta surface </l>
+                    <l>De ses molles clartés.</l>
+                </lg> 
+                <lg type="quatrain">
+                    <l>Que le vent qui gémit, le roseau qui soupire,</l>
+                    <l>Que les parfums légers de ton air embaumé,</l>
+                    <l>Que tout ce qu'on entend, l'on voit ou l'on respire,</l> 
+                    <l>Tout dise : Ils ont aimé !</l>
+                </lg>  
+        </body>
+    </text>     
+</Poesie>
+ 
 
