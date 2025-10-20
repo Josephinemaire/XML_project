@@ -1,1 +1,16 @@
-fichier xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE XML SYSTEM "DTD_poesie.dtd">
+<XML>
+<fileDesc>
+    <titleStmt>
+        <title>poesie</title>
+        <author>Joséphine Maire</author>
+    </titleStmt>
+    <publicationStmt>
+        <p></p>
+    </publicationStmt>
+    <sourceDesc></sourceDesc>
+</fileDesc>
+    
+</XML>
+
