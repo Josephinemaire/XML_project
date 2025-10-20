@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!ELEMENT XML (fileDesc)>
-<!ELEMENT fileDesc (titleStmt,publicationStmt, sourceDesc)>
+<!ELEMENT Poesie (Header, text)>
+<!ELEMENT Header (titleStmt,publicationStmt, sourceDesc)>
 <!ELEMENT titleStmt (title, author)>
 <!ELEMENT title (#PCDATA)>
 <!ELEMENT author (#PCDATA)>
 <!ELEMENT publicationStmt (p)>
 <!ELEMENT p (#PCDATA)>
 <!ELEMENT sourceDesc (#PCDATA) >
+<!ELEMENT text (body)>
+<!ELEMENT body (lg+) >
+<!ELEMENT lg (l+)>
+<!ATTLIST lg type CDATA #REQUIRED >
+<!ELEMENT l (#PCDATA) >
+
+
 
