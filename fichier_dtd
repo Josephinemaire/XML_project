@@ -1,1 +1,10 @@
-fichier dtd
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT XML (fileDesc)>
+<!ELEMENT fileDesc (titleStmt,publicationStmt, sourceDesc)>
+<!ELEMENT titleStmt (title, author)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publicationStmt (p)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT sourceDesc (#PCDATA) >
+
