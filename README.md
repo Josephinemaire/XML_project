@@ -1,4 +1,4 @@
-# A French poetry corpus : *Le Lac* by Alphonse de Lamartine, *L'Albatros* de Charles Baudelaire and *La courbe de tes yeux* de Paul Eluard. 
+# A French poetry corpus : *Le Lac* by Alphonse de Lamartine, *L'Albatros* by Charles Baudelaire and *La courbe de tes yeux* by Paul Eluard. 
 For the first step, we must be able to provide an XML file linked to a DTD file. We must also write a .readme file presenting the works we have chosen  to encode, and explain why we chose them.
 As for me, since I love poetry, I chose to work on three French poems from the 19th and 20th centuries that I particularly like: *Le Lac* by Alphonse de Lamartine, *L'Albatros* by Charles Baudelaire, and *La courbe de tes yeux* by Paul Eluard. I had studied them in the past and found their structure interesting, both in terms of meaning (highlighted in XML) and form. 
 *Le Lac* is a poem from 1820, published in *Méditations poétiques*. It is known as one of the most famous poems of French Romantic poetry, alongside the poems of Victor Hugo, and presents a reflection on time. 
